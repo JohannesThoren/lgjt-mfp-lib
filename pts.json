@@ -1,0 +1,20 @@
+{
+    "List": [
+        {
+            "Name": "Pasta Med Tomat Sås",
+            "Ingredients": [
+                {
+                    "Name": "Tomat Sås",
+                    "Amount": 3,
+                    "MesurementUnit": "DL"
+                },
+                {
+                    "Name": "pasta",
+                    "Amount": 500,
+                    "MesurementUnit": "G"
+                }
+            ]
+        }
+    ]
+  
+}
